@@ -1,0 +1,6 @@
+@RELATION Users
+@ATTRIBUTE Answer	string
+@ATTRIBUTE Companies {Amazon,Raytheon,Cisco,two_sigma,Lockheed_Martin,BAE_Systems,Goldman_Sachs,Capital_One,Google,Facebook,Uber,Snapchat}
+
+@DATA
+"I like missiles and government work stuff i want a security clearance and military.", ?

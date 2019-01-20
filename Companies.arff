@@ -1,0 +1,41 @@
+@RELATION Companies
+@ATTRIBUTE Answer	string
+@ATTRIBUTE Companies {Amazon,Raytheon,Cisco,two_sigma,Lockheed_Martin,BAE_Systems,Goldman_Sachs,Capital_One,Google,Facebook,Uber,Snapchat}
+
+@DATA
+"Working Raytheon interesting. military, specifically missiles. Since defence contractor, pretty strict leading old technologies clearance needed most cases. Being U.S. citizen  must. Some positives include great job security also comes negative old executives", Raytheon
+"Raytheon, defense contractor, believe essential clearance when working here. specialize missiles rockets. mostly located around Washington D.C Engineering jobs also Arizona, Massachusetts, New Mexico. While strict workplace, similar any other defense contractor closely military, even uniformed personnel our offices.", Raytheon
+"Working cool engineer.  cool masterpieces including missiles rockets. dad was military coming defense contractor Raytheon was must. One thing would change would definitely bureaucratic environment", Raytheon
+"Woking Two Sigma stressful. expected from working any hedge fund or financial firm New York. You will working long hours, high pay makes up it. Culture wise, office full younger people who m passionate about what they doing.", two_sigma
+"people Two Sigma young, they driven. company offer career finance, being firm New York. pay good, would say makes up long stressful hours required job.", two_sigma
+"time Two Sigma proven truly beneficial financial career. hedge fund New York all strived towards young graduate, much ones now. they important, they paid generously it, deservingly course. However, if you not ready long hours most week, not place you.", two_sigma
+"Amazon biggest retailer world reason. people hard stressful environment, assume pay makes up it. Although based Seattle,  other locations available, company operates one from Silicon Valley. Amazon tech company, home all types engineers.", Amazon
+"one Big Four, Amazon leading technology company young people head engineering. These people hard innovative, they rewarded by their salary. Sadly, these people can’t handle all stress Amazon puts them, they only stay short term purposes.", Amazon
+"won’t sugar coat it, working Amazon was only okay. was put under much stress leave company short notice. Yes, did paid well, could not handle operations Silicon", Amazon
+"Cisco extremely relaxed place great life balance. They pay good age balance excellent. Young people here, stay many years. Cisco silicon valley its headquarters San Jose California. They focus switches networking, while also focusing security.", Cisco
+"Working fantastic, am very happy can from home whenever want. am free please our large campus am paid well. Industrial engineering big supply chain big part Cisco. love people culture very fun.", Cisco
+"Cisco really cares about me, tech cool, mostly new. Since located Silicon valley, paid well. age balance nice technology around us fantastic. really exec.", Cisco
+"worked Lockheed Martin past five years. contracting company based defense, where aircrafts machines sort. Culture-wise, little strict corporate, nonetheless good place if you engineer.", Lockheed_Martin
+"workload given new graduates Lockheed Martin somewhat easy compared other companies. Right now, Lockheed looking people good engineering cybersecurity, these essential contracting company.", Lockheed_Martin
+"work Lockheed Martin, you will need government clearance, contracting company heavily focused national defense. You may working airplanes jets new graduate engineering. Other teams may working radar. Cybersecurity.", Lockheed_Martin
+"BAE Systems focused defense submarines. culture pretty bureaucratic. full old people strict policies.", BAE_Systems
+"You need government clearance BAE systems. corporate place focused nuclear technology. our new graduates defense system submarines.", BAE_Systems
+"Old people  BAE. them defense submarines. corporate world strict one live in. You will need clearance bureaucratic place", BAE_Systems
+"Goldman Sachs extremely stressful. You long hours. average, you looking 60 hours per week. here, you need smart competitive. what takes Wall Street company.", Goldman_Sachs
+"Working Goldman challenge. You high salary income corporate finance firm located new york.  competition between developers who you need hard money.", Goldman_Sachs
+"Goldman Sachs, you given mentor help you navigate hard pathways corporate world. stress hard handle some, smart people know how challenges finance company.", Goldman_Sachs
+"finance company mostly located Virginia Washington D.C.  employees mostly young Capital one attempts enter tech world. campus nice income high software engineer.", Capital_One
+"culture Capital one great,  many young people here. campus nice finance part company okay. Technology innovation all over Capital one. relaxed culture nice company", Capital_One
+"Capital One  good place young people. They pay good salary want their young people innovative  technology field possible. Culture wise, place good work-life balance. You will good time finance tech company.", Capital_One
+"google campus beautiful projects fun. culture fantastic pay high. people smart they stress sometimes.  high demand all engineers. create technology use modern technology too.", Google
+"projects Google very interesting located valley  many tech companies around us. life balance okay, job very competitive. People smart always grinding", Google
+"projects interesting including android, google, search engines, cloud various other things.  many topics expectations high. High salary accompanies silicon valley company, startup culture still exists.", Google
+"facebook campus beautiful town. benefits amazing challenging. company innovative  many resources your hand. culture fantastic long hours stress exists every position. High expectations also included", Facebook
+"Facebook social media company open hip. Young people everywhere modern tech being used. company located silicon valley where freedom usual. Getting job difficult.", Facebook
+"Facebook open cool,  free food high pay great culture. hours long stress exists. stressful challenging.", Facebook
+"Working uber fun, startup culture cool interesting. Since deal car technology alot people smart. benefits fabulous competition crazy. also challenging place work.", Uber
+"difficult software here. located valley lots opportunities. People don’t really working pay large. very practical goal, allowing people Uber from one place another", Uber
+"Long hours challenging shadow uber. culture very cutthroat very startup like. Many young kids here, alot smart brilliant minds.", Uber
+"Working snapchat cool, culture very startup everyone likes take pictures. offices New York Los Angeles, because deal social media. people smart tech people since deal modern technology. Pay high comes stress, life balance decent.", Snapchat
+"startup culture great social media company. pictures taken cool people artsy. tech use very modern our company isn’t doing hot.", Snapchat
+"culture cool young, interesting. workers smart pay great. Very college oriented snapchat", Snapchat
