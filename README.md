@@ -11,7 +11,7 @@ If a user wants to work at:
 I like social media and cameras. I like the startup enviornment and culture so a company where I am free to do as I please is important. 
 I want young people and great pay. Prefrebaly something that will feel very college. I like jets"
 
-They get matched with snapchat
+They get matched with snapchat, becacuse the algorithm saw majority of reviews that contained these type of words and combination of words were for snapchat reviews more often than other companes
 
 But if a person states:
 
